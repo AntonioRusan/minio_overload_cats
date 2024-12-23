@@ -1,4 +1,4 @@
-# minio_cats_upload
+# minio_overload_cats
 ## Запуск программы
 
 ```bash
